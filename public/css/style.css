@@ -1,0 +1,27 @@
+#login{
+    display: flex;
+    align-items: center;
+    height: 650px;
+}
+h4{
+    text-align: center;
+}
+#header{
+    background: blue;
+    padding: 15px 0px;
+}
+#header ul{
+   
+    float: right;
+}
+#header li{
+   display: inline-block;
+}
+#header li a{
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+#header h4{
+    color: white;
+}
